@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+fastapi
+uvicorn
+pydantic
+pytest
+python-dotenv
+joblib
+sentence-transformers
+faiss-cpu
+transformers
+datasets
